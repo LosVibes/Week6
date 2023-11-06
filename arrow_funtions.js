@@ -10,7 +10,7 @@ function addTwo(a,b) {
 
 console.log(addTwo(6,7));
 
-//what is an arrow function ? Its anonymouse (without a name), doesnt need a name
+//what is an arrow function ? Its anonymouse (without a name), doesnt *NEED* a name
 const double = x => x * 2;// naming, parentheses, return keyword and curly braces all optional. 
 console.log(double(11))
 
